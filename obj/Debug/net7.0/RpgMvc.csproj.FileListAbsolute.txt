@@ -64,3 +64,8 @@ D:\Work\Etec\2023-1_3DS_PAMII\Alunos\Breno\RpgMvc\obj\Debug\net7.0\refint\RpgMvc
 D:\Work\Etec\2023-1_3DS_PAMII\Alunos\Breno\RpgMvc\obj\Debug\net7.0\RpgMvc.pdb
 D:\Work\Etec\2023-1_3DS_PAMII\Alunos\Breno\RpgMvc\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
 D:\Work\Etec\2023-1_3DS_PAMII\Alunos\Breno\RpgMvc\obj\Debug\net7.0\ref\RpgMvc.dll
+D:\breno\dsI\RpgMvc\bin\Debug\net7.0\Publish\web.config
+D:\breno\dsI\RpgMvc\bin\Debug\net7.0\Publish\appsettings.Development.json
+D:\breno\dsI\RpgMvc\bin\Debug\net7.0\Publish\appsettings.json
+D:\breno\dsI\RpgMvc\bin\Debug\net7.0\Publish\RpgMvc.deps.json
+D:\breno\dsI\RpgMvc\bin\Debug\net7.0\Publish\RpgMvc.runtimeconfig.json

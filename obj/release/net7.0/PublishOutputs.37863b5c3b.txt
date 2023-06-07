@@ -1,0 +1,8 @@
+D:\breno\dsI\RpgMvc\Publish\RpgMvc.exe
+D:\breno\dsI\RpgMvc\Publish\appsettings.Development.json
+D:\breno\dsI\RpgMvc\Publish\appsettings.json
+D:\breno\dsI\RpgMvc\Publish\RpgMvc.dll
+D:\breno\dsI\RpgMvc\Publish\RpgMvc.deps.json
+D:\breno\dsI\RpgMvc\Publish\RpgMvc.runtimeconfig.json
+D:\breno\dsI\RpgMvc\Publish\RpgMvc.pdb
+D:\breno\dsI\RpgMvc\Publish\Newtonsoft.Json.dll
